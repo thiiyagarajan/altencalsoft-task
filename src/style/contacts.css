@@ -1,0 +1,23 @@
+.contacts {
+  justify-content: center;
+  background-color: #c8c8c8;
+}
+.contacts h4 {
+  margin: 0px;
+}
+.contacts .container {
+  display: grid;
+  grid-gap: 2px;
+  justify-self: center;
+}
+
+.contacts .container .search_box {
+  width: 100%;
+  min-height: 40px;
+  border: 0px solid #ffffff;
+  background-color: #d3d3d3;
+}
+
+.contacts .container .contactlist {
+  background-color: #d3d3d3;
+}
